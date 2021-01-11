@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_knit$set(rootdir="/Users/tilly/Documents/Incomplete Data Analysis/Assignment3")
 ```
-All code included in this assignment is available in a GitHub repository at https://github.com/mworlidge/incomplete-data-analysis/blob/main.R. First I need to load all the necessary packages.
+All code included in this assignment is available in a GitHub repository at https://github.com/mworlidge/incomplete-data-analysis/blob/main/assignment3.Rmd First I need to load all the necessary packages.
 ```{r install, message=FALSE, warning=FALSE}
 require("mice")
 require(JointAI)
